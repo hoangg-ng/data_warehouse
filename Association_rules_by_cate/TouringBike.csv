@@ -1,0 +1,377 @@
+,antecedents,consequents,confidence
+0,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46'})","frozenset({'Touring-1000 Blue, 60'})",0.9010989010989011
+1,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Blue, 46', 'Touring-1000 Yellow, 50'})","frozenset({'Touring-2000 Blue, 60'})",0.9310344827586207
+2,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Blue, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 60'})",0.903225806451613
+3,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.922222222222222
+4,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.9010989010989011
+5,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.913978494623656
+6,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.9072164948453607
+7,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46'})","frozenset({'Touring-1000 Blue, 60'})",0.9021739130434782
+8,"frozenset({'Touring-1000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.9010989010989011
+9,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.903225806451613
+10,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.9052631578947368
+11,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.9285714285714287
+12,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9157894736842105
+13,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.9099999999999999
+14,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 46'})",0.9010989010989011
+15,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 46'})",0.903225806451613
+16,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+17,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+18,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+19,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+20,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.9010989010989011
+21,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.903225806451613
+22,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9199999999999999
+23,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9199999999999999
+24,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50'})","frozenset({'Touring-2000 Blue, 60'})",0.903225806451613
+25,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9
+26,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.9010989010989011
+27,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.913978494623656
+28,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+29,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.9042553191489362
+30,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.90625
+31,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Blue, 60'})",0.903225806451613
+32,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9072164948453607
+33,"frozenset({'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+34,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 50'})","frozenset({'Touring-1000 Yellow, 46'})",0.9010989010989011
+35,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9055118110236222
+36,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9029126213592233
+37,"frozenset({'Touring-2000 Blue, 46', 'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.9042553191489362
+38,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9024390243902439
+39,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9029126213592233
+40,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9090909090909092
+41,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9098360655737705
+42,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9029126213592233
+43,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.9134615384615385
+44,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9111111111111111
+45,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+46,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9042553191489362
+47,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9278350515463918
+48,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9
+49,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+50,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.903225806451613
+51,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9021739130434782
+52,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9047619047619048
+53,"frozenset({'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9080459770114943
+54,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9111111111111111
+55,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9368421052631578
+56,"frozenset({'Touring-2000 Blue, 46', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9021739130434782
+57,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+58,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 58'})","frozenset({'Touring-3000 Yellow, 62'})",0.9069767441860467
+59,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.922222222222222
+60,"frozenset({'Touring-2000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9042553191489362
+61,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9212598425196852
+62,"frozenset({'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-3000 Blue, 50'})",0.9107142857142857
+63,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Blue, 58', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9120879120879121
+64,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9032258064516129
+65,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9099099099099099
+66,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9017857142857142
+67,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9456521739130435
+68,"frozenset({'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9157894736842105
+69,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9080459770114943
+70,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9016393442622952
+71,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9120879120879121
+72,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9111111111111111
+73,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.9176470588235295
+74,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.9186046511627908
+75,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9080459770114943
+76,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9213483146067416
+77,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 60'})",0.9010989010989011
+78,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9111111111111111
+79,"frozenset({'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.9021739130434782
+80,"frozenset({'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9056603773584906
+81,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9019607843137255
+82,"frozenset({'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9021739130434782
+83,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.9101123595505618
+84,"frozenset({'Touring-3000 Blue, 54', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-2000 Blue, 60'})",0.9042553191489362
+85,"frozenset({'Touring-3000 Blue, 54', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 60'})",0.9042553191489362
+86,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.9111111111111111
+87,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9010989010989011
+88,"frozenset({'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-1000 Blue, 46'})",0.90625
+89,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9142857142857143
+90,"frozenset({'Touring-3000 Blue, 54', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-1000 Blue, 60'})",0.9080459770114943
+91,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.900990099009901
+92,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9069767441860467
+93,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9207920792079207
+94,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9080459770114943
+95,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9047619047619048
+96,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46'})","frozenset({'Touring-1000 Yellow, 60'})",0.9010989010989011
+97,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.900990099009901
+98,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9
+99,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9195402298850575
+100,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9176470588235295
+101,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9019607843137255
+102,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9090909090909092
+103,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9120879120879121
+104,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-1000 Blue, 46'})",0.9090909090909092
+105,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9029126213592233
+106,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9130434782608695
+107,"frozenset({'Touring-1000 Yellow, 60', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.90625
+108,"frozenset({'Touring-1000 Yellow, 60', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9166666666666667
+109,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9111111111111111
+110,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9065420560747663
+111,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 60'})",0.90625
+112,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.90625
+113,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9021739130434782
+114,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9052631578947368
+115,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9326923076923077
+116,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.922222222222222
+117,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.9157894736842105
+118,"frozenset({'Touring-3000 Blue, 54', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9101123595505618
+119,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9204545454545455
+120,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9313725490196079
+121,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9157894736842105
+122,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.935483870967742
+123,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9130434782608695
+124,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.903225806451613
+125,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9230769230769231
+126,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9142857142857143
+127,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9175257731958762
+128,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-2000 Blue, 60'})",0.9042553191489362
+129,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.913978494623656
+130,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+131,"frozenset({'Touring-3000 Blue, 54', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Blue, 50'})",0.9195402298850575
+132,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9090909090909092
+133,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Blue, 50'})",0.9042553191489362
+134,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-1000 Blue, 46'})",0.913978494623656
+135,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.913978494623656
+136,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.9176470588235295
+137,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9069767441860467
+138,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9080459770114943
+139,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-3000 Blue, 50'})",0.9310344827586207
+140,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+141,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9176470588235295
+142,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9186046511627908
+143,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.9397590361445785
+144,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9069767441860467
+145,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9195402298850575
+146,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9523809523809524
+147,"frozenset({'Touring-1000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9285714285714287
+148,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-1000 Yellow, 46'})",0.9176470588235295
+149,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9069767441860467
+150,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-1000 Yellow, 46'})",0.9285714285714287
+151,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9397590361445785
+152,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9090909090909092
+153,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9195402298850575
+154,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9411764705882353
+155,"frozenset({'Touring-1000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9195402298850575
+156,"frozenset({'Touring-1000 Blue, 50', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.930232558139535
+157,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.900990099009901
+158,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9111111111111111
+159,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9166666666666667
+160,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9204545454545455
+161,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-1000 Yellow, 60'})",0.9111111111111111
+162,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.903225806451613
+163,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-1000 Yellow, 60'})",0.9101123595505618
+164,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+165,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9207920792079207
+166,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9056603773584906
+167,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9318181818181819
+168,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9199999999999999
+169,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9038461538461539
+170,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+171,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9038461538461539
+172,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.922222222222222
+173,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9090909090909092
+174,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9019607843137255
+175,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.90625
+176,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9142857142857143
+177,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9108910891089109
+178,"frozenset({'Touring-2000 Blue, 54', 'Touring-1000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-3000 Blue, 50'})",0.9157894736842105
+179,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9134615384615385
+180,"frozenset({'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-3000 Blue, 50'})",0.9166666666666666
+181,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9166666666666666
+182,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9080459770114943
+183,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60', 'Touring-3000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9052631578947368
+184,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9108910891089109
+185,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Blue, 60', 'Touring-3000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+186,"frozenset({'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-3000 Yellow, 62'})","frozenset({'Touring-3000 Blue, 50'})",0.9021739130434782
+187,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+188,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9204545454545455
+189,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9108910891089109
+190,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.930232558139535
+191,"frozenset({'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.908256880733945
+192,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9029126213592233
+193,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9090909090909091
+194,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9230769230769231
+195,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9425287356321839
+196,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9009009009009009
+197,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.903225806451613
+198,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+199,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9021739130434782
+200,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Yellow, 60'})",0.9176470588235295
+201,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9134615384615385
+202,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Yellow, 60'})",0.9090909090909092
+203,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+204,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.903225806451613
+205,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.903225806451613
+206,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-1000 Yellow, 60'})",0.9204545454545455
+207,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9239130434782609
+208,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9285714285714287
+209,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.9042553191489362
+210,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9489795918367346
+211,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9306930693069307
+212,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.930232558139535
+213,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9042553191489362
+214,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9239130434782609
+215,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9223300970873788
+216,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.903225806451613
+217,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9438202247191011
+218,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9195402298850575
+219,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-3000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9130434782608695
+220,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9306930693069307
+221,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9529411764705882
+222,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 46'})",0.9021739130434782
+223,"frozenset({'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9090909090909092
+224,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 46'})",0.903225806451613
+225,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+226,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-3000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9186046511627908
+227,"frozenset({'Touring-1000 Yellow, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-3000 Yellow, 62'})",0.9318181818181819
+228,"frozenset({'Touring-1000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9069767441860467
+229,"frozenset({'Touring-1000 Yellow, 50', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.951219512195122
+230,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9439252336448598
+231,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9101123595505618
+232,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9090909090909092
+233,"frozenset({'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9052631578947368
+234,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.913978494623656
+235,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9074074074074074
+236,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9074074074074074
+237,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9166666666666666
+238,"frozenset({'Touring-1000 Yellow, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9081632653061225
+239,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9175257731958762
+240,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.908256880733945
+241,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9252336448598131
+242,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9263157894736841
+243,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.922222222222222
+244,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9239130434782609
+245,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9042553191489362
+246,"frozenset({'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9072164948453607
+247,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9117647058823528
+248,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9148936170212766
+249,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9101123595505618
+250,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9021739130434782
+251,"frozenset({'Touring-2000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9157894736842105
+252,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.935483870967742
+253,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.96
+254,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.946236559139785
+255,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.9021739130434782
+256,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9111111111111111
+257,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9213483146067416
+258,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9325842696629213
+259,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9120879120879121
+260,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9021739130434782
+261,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9325842696629213
+262,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-3000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+263,"frozenset({'Touring-3000 Yellow, 50', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9101123595505618
+264,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9204545454545455
+265,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9120879120879121
+266,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9195402298850575
+267,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 62', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9021739130434782
+268,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9195402298850575
+269,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9195402298850575
+270,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9080459770114943
+271,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+272,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9213483146067416
+273,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+274,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9239130434782609
+275,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9130434782608695
+276,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9230769230769231
+277,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9069767441860467
+278,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+279,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9101123595505618
+280,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9230769230769231
+281,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9325842696629213
+282,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.930232558139535
+283,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9534883720930233
+284,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.922222222222222
+285,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9021739130434782
+286,"frozenset({'Touring-1000 Blue, 60', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9176470588235295
+287,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9176470588235295
+288,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9285714285714287
+289,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9120879120879121
+290,"frozenset({'Touring-1000 Blue, 46', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9120879120879121
+291,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9111111111111111
+292,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9213483146067416
+293,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9213483146067416
+294,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9111111111111111
+295,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9010989010989011
+296,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9397590361445785
+297,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9285714285714287
+298,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9404761904761905
+299,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9310344827586207
+300,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9555555555555555
+301,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.913978494623656
+302,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9042553191489362
+303,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9239130434782609
+304,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9080459770114943
+305,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9186046511627908
+306,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 60'})",0.9294117647058823
+307,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9080459770114943
+308,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9052631578947368
+309,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9555555555555555
+310,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9069767441860467
+311,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9176470588235295
+312,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.951219512195122
+313,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.903225806451613
+314,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9230769230769231
+315,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 60'})",0.9069767441860467
+316,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9069767441860467
+317,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9069767441860467
+318,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9285714285714287
+319,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.976470588235294
+320,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-2000 Blue, 60'})",0.9080459770114943
+321,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Blue, 50'})",0.9080459770114943
+322,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9753086419753086
+323,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50'})","frozenset({'Touring-2000 Blue, 60'})",0.9176470588235295
+324,"frozenset({'Touring-3000 Yellow, 62', 'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9176470588235295
+325,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-1000 Blue, 46'})",0.9397590361445785
+326,"frozenset({'Touring-1000 Blue, 46', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9285714285714287
+327,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9186046511627908
+328,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.903225806451613
+329,"frozenset({'Touring-1000 Blue, 60', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9230769230769231
+330,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9204545454545455
+331,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.90625
+332,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9157894736842105
+333,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9166666666666666
+334,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9213483146067416
+335,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-1000 Yellow, 46'})",0.9021739130434782
+336,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9120879120879121
+337,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.903225806451613
+338,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9523809523809524
+339,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9418604651162791
+340,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9318181818181819
+341,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46'})","frozenset({'Touring-3000 Yellow, 62'})",0.9411764705882353
+342,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9333333333333332
+343,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9021739130434782
+344,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9021739130434782
+345,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9431818181818181
+346,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9069767441860467
+347,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9176470588235295
+348,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9176470588235295
+349,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9052631578947368
+350,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9052631578947368
+351,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9347826086956521
+352,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9176470588235295
+353,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9397590361445785
+354,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.930232558139535
+355,"frozenset({'Touring-1000 Blue, 60', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9529411764705882
+356,"frozenset({'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9651162790697674
+357,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9148936170212766
+358,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9052631578947368
+359,"frozenset({'Touring-3000 Yellow, 44', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9347826086956521
+360,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9052631578947368
+361,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9052631578947368
+362,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.924731182795699
+363,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9318181818181819
+364,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 46', 'Touring-2000 Blue, 54'})","frozenset({'Touring-3000 Yellow, 62'})",0.9879518072289157
+365,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9080459770114943
+366,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Blue, 50'})",0.9186046511627908
+367,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Blue, 54', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9518072289156627
+368,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.913978494623656
+369,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Blue, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9883720930232559
+370,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9186046511627908
+371,"frozenset({'Touring-3000 Blue, 50', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9634146341463414
+372,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54'})","frozenset({'Touring-1000 Yellow, 60'})",0.9397590361445785
+373,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 54'})",0.9397590361445785
+374,"frozenset({'Touring-3000 Yellow, 62', 'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-2000 Blue, 60'})",0.9176470588235295
+375,"frozenset({'Touring-3000 Yellow, 44', 'Touring-3000 Yellow, 50', 'Touring-2000 Blue, 60', 'Touring-2000 Blue, 54', 'Touring-1000 Yellow, 60'})","frozenset({'Touring-3000 Yellow, 62'})",0.9176470588235295

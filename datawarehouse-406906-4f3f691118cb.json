@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "datawarehouse-406906",
+  "private_key_id": "4f3f691118cbacb10b7a0fdafcbe4db6b1d69ef5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCh25CGU/bWje2v\nt/HgEjcVHV7dTsWwmIXTpdKuSUNCZHNJUqvrUcI0fdyQTIcbr5H7SFO9eG8f/o2v\nCwssT+18VZKMVdCnRTKl5b85qS/DIKZ3OaNbvCCZtVNmmrsbvVGjzCqL8ndTkxYd\nY8qmK6hexaqq3y+3dvv0jQVblpyCz4Zj57Ioi1fQ6LL1Odx1iQZxtHX4kkkpqh2B\nt+MF5oPx6xMdN8ouyZLTOUbWOZr+tRdEGEFTDzb7JLhkJ37Zr7pyZnOCq5K/TMuA\nveRBLbHE43c8+g20FjUFenjUMyfd69zTrTfu0fYFSOJzIeUb6Bi9uDPmKmsmcZNM\nHaj2iXXHAgMBAAECggEAF9cUSYTShbWv/cLVQJDORjDmSSiSG7nLdGonRv6Jhpzv\nEiy4H9gSB9NGCocLG3vXv7BejTjQ/WBsFA1HXwaCz153UG5PZmPd2uulJ+QQoegM\nPOFje16RWrKHj0RZLPPMs5id57EV/Fxc1IVfUux5R0RMKBDpoVdIMzQWRvA/K1ET\nu0hFGukPGD5lsbLijj8GrJXD0jE7M6FpDo5Pm1O9ggf8FyxcfN/hm8vviBIoLp7f\nJWf2kKoQKpe5jU+q5zcnVnkGg0Ke6Z8a9j4ii3GwWu3A3lf0ZZVbojgz3eZv8UtT\n4lf7O3hDsSo+kIbpq2scLhqJmwOt9BB7Ekv1Vz5JUQKBgQDZx0lGnB0BTt3N59o1\nktllDU+RbBai3XGY5/NcrRutMegBJV+PjgaSe6GlvQa+UPxOkUuOvXv03BLLUo68\nACEDdm9oiR/xcNuWYE3t+xqYu5MhUl6S+DOgp67pMLgwI0hx0hPFxRyWK82NMKlH\n5QQrOJu71fIyhgV6A8I/6gFBvwKBgQC+Q8akHImnVWwlahK1u70oasYa8WQkZ7uJ\nS66q9FMNH2RsPSgXKgVQ0Cpbbfc2FZLdv4bDsyDvGHgoZMInT8iDpqPFCIac+ikO\nlWOb9PgvYGdH8Ax2bGJE0RwMOl9dQXXMZbeH+iT+beQKy/4V2KSpQExzrEHZUdTM\nD8MWbto9+QKBgQDAzz7h4/+OE+wui9JW0j/kxscmgiL8aMBVVy7QY3b4fRHiSdt0\nNpM9B3ZTTar1vq/TQ7I4myxu2pVNLDew3RBdh3MVgyoj0f6oAXWdeE7Q4Glf/BQ9\nXMAgwbULQhYgkGxoUU0uMNihYACpu2Z0f5+UQJco0z+OWbfpkgBeI+ie8wKBgQCD\njFjLHvANwgID3FMTU7p1N13BQyT6Br6jLrCVglfpusq0C5Ssb2E9fq/Khz1lJ4Vj\nzAhhRnh+12w8gW27wG3imFSi5kIsRsocSy2Tpsvx9bVzB4WWW1mWOv4pdjJ5R8kq\niSlb2pe5UkFZNbF3aVJvswUo9PCSUQHQFRXNbNd4AQKBgQC6ZsDUo8ZFkUCqu103\n0X3KntkHU6ZDhX2lvkh7k+nrVUvhf54L3WOT9mfneFF3kadjW1DVQp7ZoEL9Ia8r\ntFxg4XIhEIiLi+mqS8ytY4tn12f8i9x5B8TuwWohp9qD1e01RqUYmDcjd6AaW/wA\nGle8upq00XRuVKHO1yfU9Zx+7A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hoang236@datawarehouse-406906.iam.gserviceaccount.com",
+  "client_id": "109257781015463618253",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hoang236%40datawarehouse-406906.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
