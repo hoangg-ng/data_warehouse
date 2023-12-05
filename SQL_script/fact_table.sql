@@ -1,7 +1,6 @@
 SELECT TOP(100000)
 	dbo.dim_TransactionHistory.TransactionID,
 	dbo.dim_Product.ProductID as ProductID,
-	dbo.dim_product.[Name] as ProductName,
 	dbo.dim_TransactionHistory.ReferenceOrderID,
 	dbo.dim_TransactionHistory.ReferenceOrderLineID,
 	dbo.dim_Time.TimeID,
@@ -19,5 +18,28 @@ LEFT JOIN dim_ProductModel on dbo.dim_Product.ProductModelID=dbo.dim_ProductMode
 LEFT JOIN dim_TransactionHistory on dbo.dim_Product.ProductID=dbo.dim_TransactionHistory.ProductID 
 LEFT JOIN dim_Category on dbo.dim_Product.ProductSubcategoryID=dbo.dim_Category.ProductSubcategoryID
 LEFT JOIN dim_Time on dbo.dim_TransactionHistory.TransactionDate=dbo.dim_Time.TransactionDate
---LEFT JOIN dim_Time on dbo.dim_Time.TransactionDate=dbo.Fact_Table.TransactionDate
---LEFT JOIN dim_ProductInventory on dbo.dim_Product.ProductID=dbo.dim_ProductInventory.ProductID
+
+
+-- Edit constraints
+ALTER TABLE [dbo].[fact_table]
+ALTER COLUMN TransactionID int NOT NULL;
+
+ALTER TABLE [dbo].[fact_table]
+ALTER COLUMN ReferenceOrderID int NOT NULL;
+
+ALTER TABLE [dbo].[fact_table]
+ALTER COLUMN ReferenceOrderLineID int NOT NULL;
+
+ALTER TABLE [dbo].[fact_table]
+ALTER COLUMN TimeID int NOT NULL;
+
+ALTER TABLE [dbo].[fact_table]
+ALTER COLUMN ProductModelID int NOT NULL;
+
+ALTER TABLE [dbo].[fact_table]
+ALTER COLUMN ProductSubcategoryID int NOT NULL;
+
+
+-- Create new primary key for fact table
+ALTER TABLE [dbo].[fact_table]
+ADD CONSTRAINT PK_facttable PRIMARY KEY(TransactionID);

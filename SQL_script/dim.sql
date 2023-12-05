@@ -1,9 +1,31 @@
--- Creating Product dimension
-SELECT Production.ProductPhoto.ProductPhotoID,Production.ProductProductPhoto.ProductID,Production.ProductProductPhoto.[Primary],Production.ProductPhoto.ThumbnailPhotoFileName,Production.ProductPhoto.LargePhoto,Production.ProductPhoto.LargePhotoFileName,Production.ProductPhoto.ThumbNailPhoto,Production.ProductPhoto.ModifiedDate
- INTO dbo.dim_ProductPhoto
- FROM Production.ProductPhoto 
- FULL OUTER JOIN Production.ProductProductPhoto
- ON ProductPhoto.ProductPhotoID=ProductProductPhoto.ProductPhotoID;
+-- Creating dimension Time
+SELECT TOP (100000)
+	TransactionID,
+    TransactionDate,
+    YEAR(TransactionDate) AS Year,
+    MONTH(TransactionDate) AS Month,
+    DAY(TransactionDate) AS Day
+INTO dbo.dim_Time
+FROM dim_TransactionHistory
+
+-- Group all transactiondate into one 
+WITH CTE AS (
+  SELECT *,
+         ROW_NUMBER() OVER (PARTITION BY TransactionDate ORDER BY (SELECT NULL)) AS RowNumber
+  FROM dbo.dim_Time
+)
+DELETE FROM CTE WHERE RowNumber > 1;
+
+-- Drop transactionID and add new auto increment primary key
+ALTER TABLE dbo.dim_Time
+DROP COLUMN TransactionID
+
+ALTER TABLE [dbo].[dim_Time]
+ALTER COLUMN TransactionID INT;
+
+ALTER TABLE [dbo].[dim_Time]
+ADD TimeID int IDENTITY(1,1) PRIMARY KEY;
+
 
 -- Creating dimension Product Inventory
 SELECT Production.ProductInventory.ProductID, Production.ProductInventory.LocationID,Production.Location.Name, Production.ProductInventory.Shelf, Production.ProductInventory.Bin,Production.ProductInventory.Quantity,Production.Location.CostRate,Production.Location.Availability,Production.ProductInventory.rowguid,Production.ProductInventory.ModifiedDate
